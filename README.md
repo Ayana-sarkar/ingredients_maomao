@@ -84,6 +84,6 @@ h1 {
   <img src="rodo.jpg" alt="Picture 4">
     </div>
     <div class="img-wrapper">
-  <img src="THE APOTHECARY DIARIES SEASON.jpg" alt="Picture 4">
+  <img src="THE APOTHECARY DIARIES SEASON 2.jpg" alt="Picture 4">
     </div>
   </div>
