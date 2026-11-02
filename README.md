@@ -6,7 +6,7 @@
   <title>My Webpage</title>
   <style>
     body {
-      background-image: url("Royale Green.jpg");
+      background-image: url("ingebg.jpg");
       background-size: cover;
       background-position: centre;
       background-repeat: no-repeat;
@@ -67,19 +67,23 @@ h1 {
   <div class="image-gallery">
        <div class="img-wrapper">
          <a href=" https://ayana-sarkar.github.io/2ndmaomao.github.io/">
-  <img src="download (3).jpg" alt="Picture 1">
+  <img src="ox.jpg" alt="Picture 1">
              </a>
        </div>
     
   <div class="img-wrapper">
-  <a href="https://ayana-sarkar.github.io/2ndmaomao.github.io/">
-  <img src="Apothecary Diaries - aesthetic.jpg" alt="Picture 2">
-  </a>
-  </div>
+  <img src="chilli.jpg" alt="Picture 2">
+</div>
      <div class="img-wrapper">
-  <img src="Cosplay Costumes, Cosplay Shoes, Cosplay Wigs Latest & Greatest - CosplayClass_.jpg" alt="Picture 3">
+  <img src="download (10).jpg" alt="Picture 3">
     </div>
      <div class="img-wrapper">
-  <img src="Maomao.jpg" alt="Picture 4">
+  <img src="poppy.jpg" alt="Picture 4">
+    </div>
+     <div class="img-wrapper">
+  <img src="rodo.jpg" alt="Picture 4">
+    </div>
+    <div class="img-wrapper">
+  <img src="THE APOTHECARY DIARIES SEASON.jpg" alt="Picture 4">
     </div>
   </div>
