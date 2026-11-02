@@ -75,7 +75,9 @@ h1 {
   <img src="chilli.jpg" alt="Picture 2">
 </div>
      <div class="img-wrapper">
+       <a href="https://ayana-sarkar.github.io/Blue-Roses/" >
   <img src="download (10).jpg" alt="Picture 3">
+       </a>
     </div>
      <div class="img-wrapper">
   <img src="poppy.jpg" alt="Picture 4">
